@@ -1,2 +1,2 @@
 # Cross Site Scripting
-Excess XSS: A comprehensive tutorial on cross-site scripting https://excess-xss.com/
+<a href="https://excess-xss.com/">Excess XSS: A comprehensive tutorial on cross-site scripting</a> https://excess-xss.com/
