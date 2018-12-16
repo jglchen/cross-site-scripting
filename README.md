@@ -7,5 +7,5 @@ Cross-site Scripting (XSS) - OWASP https://www.owasp.org/index.php/Cross-site_Sc
 
 Preventions:
 
-XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet  bbbbb
+XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet 
 
