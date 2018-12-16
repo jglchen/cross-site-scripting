@@ -5,6 +5,8 @@ What is Cross-site Scripting and How Can You Fix it? - Acunetix https://www.acun
 
 Cross-site Scripting (XSS) - OWASP https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 
+Cross-Site Scripting – Application Security – Google https://www.google.com/intl/ko_BJ/about/appsecurity/learning/xss/
+
 Preventions:
 
 XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet 
