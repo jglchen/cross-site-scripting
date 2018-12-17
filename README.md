@@ -8,6 +8,6 @@
 - Cross-Site Scripting – Application Security – Google https://www.google.com/intl/ko_BJ/about/appsecurity/learning/xss/
 
 ## Preventions ##
-- XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet 
+1. [XSS (Cross Site Scripting) Prevention Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet) 
 
 PHP 5 Form Validation https://www.w3schools.com/php/php_form_validation.asp
